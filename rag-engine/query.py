@@ -3,6 +3,7 @@
 import os
 import json
 import faiss
+import torch
 import numpy as np
 import requests
 from flask import Flask, request, jsonify
@@ -41,8 +42,9 @@ except Exception as e:
     print(f"❌ Error loading FAISS: {e}")
     exit(1)
 
-embedder = SentenceTransformer(MODEL_NAME)
-print("✅ AI Embedding Model loaded.")
+# Forces the AI model to stay lightweight and use only CPU RAM
+embedder = SentenceTransformer(MODEL_NAME, device='cpu')
+print("✅ AI Embedding Model loaded on CPU.")
 
 SYSTEM_PROMPT = (
     "You are an elite, highly accurate AI Assistant for University PG College Secunderabad (UPGCS). "
