@@ -1,0 +1,849 @@
+================================================================================
+UPGCS CHATBOT KNOWLEDGE BASE
+University Post Graduate College, Secunderabad (Osmania University)
+================================================================================
+Version: 2024 | Source: www.upgcs.in | Format: Chatbot-Optimized Plain Text
+================================================================================
+
+
+================================================================================
+SECTION 1: COLLEGE IDENTITY
+================================================================================
+
+COLLEGE_NAME: University Post Graduate College, Secunderabad
+SHORT_NAME: UPGCS
+ALSO_KNOWN_AS: University PG College, OU Secunderabad
+AFFILIATED_TO: Osmania University, Hyderabad
+TYPE: Co-educational Constituent College
+ESTABLISHED: 1947
+CITY: Secunderabad
+STATE: Telangana
+COUNTRY: India
+WEBSITE: www.upgcs.in
+
+HISTORY:
+- 1947: Founded as "Arts & Science College, Secunderabad" — UG courses only
+- 1989: Upgraded and renamed "Post-Graduate College, Secunderabad" — PG courses added
+- 2017: Renamed to "University Post Graduate College, OU Secunderabad" (UPGCS)
+
+ABOUT_COLLEGE:
+UPGCS is one of the best co-educational institutions of higher learning in the twin cities of Hyderabad and Secunderabad. It is a constituent college of Osmania University. The college offers both Under Graduate (UG) and Post Graduate (PG) courses. Most faculty hold PhD degrees. The college is a preferred destination for foreign students from Sudan, Yemen, Tanzania, Nigeria, Djibouti, Ethiopia and other African countries. The foremost objective is to nurture young minds, stimulate learning and mould their personalities.
+
+ABOUT_UNIVERSITY:
+Osmania University (OU) was established in 1918 in Hyderabad, Telangana. It is one of the oldest and most prestigious universities in India — the 7th oldest in the country and 3rd oldest in South India. It is UGC-recognised and NAAC-accredited. It governs all academic programmes, examinations, and degree awards for UPGCS.
+
+
+================================================================================
+SECTION 2: VISION AND MISSION
+================================================================================
+
+VISION:
+We aim to strive and uphold the values of humanity, nurturing through education the next generation of nation builders.
+
+MISSION:
+1. To impart quality education and create a healthy learning environment
+2. To promote high standards of teaching and research, ethics, integrity and human values
+3. To motivate students to acquire creative and critical skills
+4. To inculcate the values and virtues of citizenship
+5. To prepare students to meet the demands of new realms of global knowledge
+6. To build and strengthen the region and the nation through pursuit of knowledge
+
+
+================================================================================
+SECTION 3: KEY LEADERSHIP
+================================================================================
+
+PRINCIPAL: Prof. S Kavitha Devi (current)
+VICE_PRINCIPAL: Dr. Mrudula Lakkaraju
+ASSISTANT_REGISTRAR: Mr. D. Surya Naik
+DEPUTY_LIBRARIAN: Dr. S. Sandhya Rani
+IQAC_COORDINATOR: Dr. K. Ramesh Babu (Dept. of Maths)
+ICC_CHAIRPERSON: Dr. B. Padma (Dept. of Chemistry)
+WOMEN_EMPOWERMENT_CELL: Dr. Anita Jyothi
+ASSISTANT_LIBRARIAN: Dr. Mohammed Husamuddin
+NSS_OFFICER_UNIT1_BOYS: Dr. K. Rajendar (Dept. of Commerce)
+NSS_OFFICER_UNIT2_GIRLS: Ms. A. Sandhya (Dept. of Computer Science)
+NCC_OFFICER: Dr. Y. Mallaiah
+EXAM_INCHARGE_1: Dr. B. Saidulu (Dept. of History)
+EXAM_INCHARGE_2: Mr. A. Vijay Kumar (Dept. of Computer Science)
+EXAM_CHIEF_SUPERINTENDENT: Prof. Ravi Kumar Jasti (Principal — previous)
+ACADEMIC_COORDINATOR_1: Dr. B. Mallesh (Dept. of Maths)
+ACADEMIC_COORDINATOR_2: Dr. V. Durga Prasad (Dept. of Commerce)
+LIAISON_OFFICER: Dr. M. Rameswer Rao
+PLACEMENT_OFFICER: Mr. T. Venkatesham (Dept. of Computer Science)
+PHYSICAL_DIRECTOR: Dr. G. Samuel Prabhu Kiran
+HOSTEL_WARDEN_BOYS_GENERAL: Dr. Shankar Sampangi (Dept. of Social Work)
+HOSTEL_WARDEN_BOYS_MESS: Dr. J. Nageshwar (Dept. of History)
+HOSTEL_WARDEN_GIRLS_GENERAL: Ms. S. Shahjahan (Dept. of Chemistry)
+HOSTEL_WARDEN_GIRLS_MESS: Ms. J. Kalyani (Dept. of Computer Science)
+
+
+================================================================================
+SECTION 4: COURSES OFFERED
+================================================================================
+
+--- UNDERGRADUATE (UG) PROGRAMMES ---
+
+COURSE: BBA (Business Analytics)
+TYPE: Self-Finance
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: B.Com (Regular)
+TYPE: Regular
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: B.Com (Computer Applications)
+TYPE: Self-Finance
+SEATS: 120
+DURATION: 3 Years
+
+COURSE: B.Sc (MPC — Maths, Physics, Chemistry)
+TYPE: Regular
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: B.Sc (MPCs — Maths, Physics, Computer Science)
+TYPE: Self-Finance
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: BCA (Bachelor of Computer Applications)
+TYPE: Self-Finance
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: B.A (HPP — History, Political Science, Public Administration)
+TYPE: Regular
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: B.A (EPP — Economics, Political Science, Public Administration)
+TYPE: Regular
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: B.Sc (Data Science)
+TYPE: Regular
+SEATS: 60
+DURATION: 3 Years
+
+COURSE: B.Sc Honours (Computer Science)
+TYPE: Regular
+SEATS: 60
+DURATION: 4 Years
+
+--- POST-GRADUATE (PG) PROGRAMMES ---
+
+COURSE: M.A English
+SEATS: 40
+DURATION: 2 Years
+
+COURSE: M.A Hindi
+SEATS: 40
+DURATION: 2 Years
+
+COURSE: M.A Economics
+SEATS: 40
+DURATION: 2 Years
+
+COURSE: M.A Public Administration
+SEATS: 40
+DURATION: 2 Years
+
+COURSE: M.A History
+SEATS: 40
+DURATION: 2 Years
+
+COURSE: M.A Political Science
+SEATS: 40
+DURATION: 2 Years
+
+COURSE: M.Com (Master of Commerce — Specialisation: Finance)
+SEATS: 40
+DURATION: 2 Years
+
+COURSE: M.S.W (Master of Social Work)
+SEATS: 60
+DURATION: 2 Years
+
+COURSE: M.C.A (Master of Computer Applications)
+SEATS: 60
+DURATION: 2 Years
+
+COURSE: M.Sc (Data Science)
+SEATS: 40
+DURATION: 2 Years
+
+NOTE: The University reserves the right to change combinations or modify seat intake.
+
+--- SECOND LANGUAGES OFFERED AT UG LEVEL ---
+- Telugu
+- Hindi
+- Sanskrit
+
+
+================================================================================
+SECTION 5: ADMISSIONS
+================================================================================
+
+--- ADMISSION PROCEDURE ---
+
+UG_ADMISSION_PORTAL: DOST (Degree Online Services, Telangana)
+UG_ADMISSION_LINK: https://dost.cgg.gov.in/
+
+PG_ADMISSION_PORTAL: CPGET (Common Post-Graduate Entrance Test)
+PG_ADMISSION_LINK: https://cpget.tsche.ac.in/
+
+MCA_ADMISSION_PORTAL: ICET (Integrated Common Entrance Test)
+MCA_ADMISSION_LINK: https://icet.tsche.ac.in/
+
+STUDENT_LOGIN_FEE_PORTAL: https://osmaniaerp.com/Program.html
+INFORMATION_BULLETIN: https://dost.cgg.gov.in/viewUGCourses.htm
+
+--- ELIGIBILITY ---
+
+UG_ELIGIBILITY:
+- The college is co-educational. Both boys and girls are eligible.
+- For B.Com (Computers) and B.Sc (MPC): Must have passed Intermediate (TS Board or equivalent).
+- All Intermediate-passed students can apply for B.Com (Computers) regardless of subjects studied.
+- For B.Sc (MPC): Minimum 40% in optional subjects required. SC/ST candidates need only pass marks.
+- Compartmental/Instant exam candidates eligible if seats are available and documents submitted on time.
+
+PG_ELIGIBILITY:
+- Must appear for OUCET (Osmania University Common Entrance Test) / CPGET.
+- Admissions through centralised counselling based on OUCET merit.
+
+--- RESERVATIONS ---
+
+LOCAL_SEATS: 85% reserved for local candidates (Osmania University local area)
+NON_LOCAL_SEATS: 15% unreserved — open to both local and non-local candidates
+
+CATEGORY_RESERVATIONS:
+Backward Class (Total) — 25%
+  BC Group-A — 7%
+  BC Group-B — 10%
+  BC Group-C — 1%
+  BC Group-D — 7%
+Scheduled Caste (SC) — 15%
+Scheduled Tribe (ST) — 6%
+
+SPORTS_NCC_NSS_QUOTA: 1 seat per block of 30 seats (minimum 1 seat) per course — for Sports, NCC, NSS combined
+PHYSICALLY_HANDICAPPED_QUOTA: 1 seat per block of 30 seats (minimum 1 seat) per course
+WOMEN: Statutory reservation rules followed
+
+--- SCHOLARSHIPS ---
+
+WHO_CAN_APPLY: Students belonging to SC, ST, BC/EBC, and EPP categories
+HOW_TO_APPLY: Obtain forms from college office; submit with fee payment challan
+EPP_FORM_SOURCE: Osmania University Press
+
+INCOME_LIMITS:
+BC/EBC & Minority — Rural: Up to Rs. 1,50,000/- per year
+BC/EBC & Minority — Urban: Up to Rs. 2,00,000/- per year
+SC/ST: Up to Rs. 2,00,000/- per year
+
+DOCUMENTS_REQUIRED_SC_ST:
+1. Caste certificate (issued by Mandal Revenue Officer)
+2. Memorandum of marks (qualifying exam)
+3. SSC certificate and copy of latest TC
+4. Gap certificate (from local Gazetted Officer)
+
+DOCUMENTS_REQUIRED_LBC_EPP:
+1. Caste certificate (issued by MRO) — not required for EPP
+2. Latest income certificate (issued by MRO)
+3. Gap certificate (from Gazetted Officer)
+4. SSC memo and copy of latest TC
+
+SCHOLARSHIP_CONTACT: Mr. Md. Merajuddin, Scholarship Section
+NOTE: Hostel admission not given to LBC/ST/SC/EPP students without scholarship form submission.
+
+
+================================================================================
+SECTION 6: DEPARTMENTS
+================================================================================
+
+--- DEPARTMENT: ENGLISH ---
+ESTABLISHED: 1947
+COURSES_OFFERED: MA English (PG), English at UG level
+SEMINAR_LIBRARY: 2,000+ books
+HEAD: Dr. Mrudula Lakkaraju (Asst. Professor & I/C Head, also Vice-Principal)
+FACULTY:
+- Mr. A. Srinivas — Asst. Professor (C)
+- Ms. K. Mamatha — Asst. Professor (C)
+- Dr. T. Arun Kumar — Asst. Professor (C)
+- Dr. K. Kiran — Asst. Professor (C)
+- Ms. K. Srujana — Part Time Lecturer
+- Mr. M. Samuel — Part Time Lecturer
+KEY_ACTIVITIES:
+- Gender Sensitisation Workshop (18 Oct 2022)
+- Guest Lectures for UG and PG students
+- Book Launch: "Tree of Joy" (25 July 2023) — collaboration with IJELLS Publishing
+- Theatre Workshop with Nishumbita School of Drama (100+ students attended)
+- Student research publications from 2022 and 2023 pass-out batches
+
+--- DEPARTMENT: ECONOMICS ---
+COURSES_OFFERED: MA Economics (PG)
+HEAD: Dr. A. Lakshmi (Associate Professor)
+FACULTY:
+- Dr. Sandra Sthuthi — Part Time Teacher
+- Dr. P. Bala Padma — Part Time Teacher
+- Dr. Vanitha B — Part Time Teacher
+KEY_FOCUS: Micro Economics, Macro Economics, Quantitative Methods, Agricultural Economics, International Trade, Public Economics, Industrial Economics, Research Methodology
+RESEARCH: Faculty supervise PhD scholars and PG researchers; engaged in action research projects
+
+--- DEPARTMENT: HISTORY ---
+COURSES_OFFERED: MA History (PG)
+SPECIAL_STATUS: Centre of Excellence — Specialisation in Histories other than Indian History
+FACULTY:
+- Dr. P. Murali
+- Dr. J. Nageshwar
+- Dr. Saidulu Bhukya
+RESEARCH: Faculty are active researchers and PhD supervisors
+
+--- DEPARTMENT: PUBLIC ADMINISTRATION ---
+ESTABLISHED: 1947
+COURSES_OFFERED: BA (HPP), BA (EPP), BA (HEPA) at UG; MA Public Administration at PG
+SPECIALISATIONS: Administrative Theory, Indian Administration, Public Policy, Governance, Management
+FACULTY:
+- Dr. Sathya Sai Laxmi P — Asst. Professor (C)
+- Dr. P. Pushpa Latha — Asst. Professor (C)
+- Mr. Shiva Kumar — Asst. Professor (C)
+- Dr. Gavaskar Reddy — Asst. Professor (C)
+KEY_ACTIVITIES:
+- 20 ICT-based lessons recorded for MOOCs
+- Published books: "Basics of Public Administration for UG Students" and "Recruitment and Training Practice: A Comparative Perspective"
+- 11+ research papers in IIPA, SAGE, UGC-CARE, Nagar Lok journals
+- Educational trip to T-HUB for entrepreneurship exposure
+- 4 workshops on statistical software and research methodology
+
+--- DEPARTMENT: COMMERCE ---
+ESTABLISHED: 1947
+COURSES_OFFERED: B.Com Regular, B.Com Computers at UG; M.Com (Finance) at PG
+SYLLABUS: CBCS (Osmania University)
+HEAD: Prof. Ravi Kumar Jasti (I/c Head & Professor)
+FACULTY:
+- Dr. S. Anitha Jyothi — Asst. Professor
+- Dr. V. Durga Prasad — Asst. Professor (C) [also Academic Coordinator]
+- Ms. Naveena Grape Kumari — Asst. Professor (C)
+- Dr. M. Rameshwar Rao — Asst. Professor (C)
+- Dr. K. Rajender — Asst. Professor (C) [also NSS Unit I Officer]
+- Mr. V. Narasimha Prasad — Asst. Professor (C)
+- Dr. G. Divisha — Part Time Lecturer (ICSSR Post Doctoral Fellow)
+- Ms. Sagarika — Part Time Lecturer
+- Dr. Srinivas Barla — PTL (ICSSR Post Doctoral Fellow)
+- Mr. K. Satish — Part Time Lecturer
+- Ms. E. Jyothi — Part Time Lecturer
+- Ms. Pavana Jyothi — Part Time Lecturer
+KEY_ACTIVITIES:
+- Prerana 2k24: State-level competition for Commerce students (20–23 March 2024)
+- Tally Certificate Programme — conducted annually for B.Com students
+- 4 Guest Lectures on Finance and Research Methodology organised
+
+--- DEPARTMENT: POLITICAL SCIENCE ---
+ESTABLISHED: 1947
+COURSES_OFFERED: MA Political Science (PG)
+SEMINAR_LIBRARY: 500+ books
+HEAD: Dr. Sabavath Ravi (Asst. Professor & I/C Head)
+FACULTY:
+- Dr. Rajesh Kota — Part Time Lecturer
+- Dr. P. Narender Reddy — Part Time Lecturer
+- Dr. Vinay Kumar — Part Time Lecturer
+- Dr. P. Vijay Kumar — Part Time Lecturer
+NOTE: All faculty are PhD holders
+
+--- DEPARTMENT: MATHEMATICS ---
+COURSES_OFFERED: Mathematics in B.Sc (MPC), B.Sc (MPCs), BBA, BCA at UG; core in MCA, M.Sc Data Science at PG
+HEAD: Dr. Uma Dixit (Associate Professor)
+FACULTY:
+- Dr. B. Mallesh — Asst. Professor (C) [also Academic Coordinator]
+- Dr. S. Ravi — Asst. Professor (C)
+- Ms. B. Uma Devi — Asst. Professor (C)
+- Dr. K. Ramesh Babu — (IQAC Coordinator)
+RESEARCH: 52 articles published in UGC-approved and peer-reviewed journals; 2 B.Sc textbooks authored
+
+--- DEPARTMENT: CHEMISTRY ---
+LABS: 3 well-equipped labs — Inorganic, Organic, Physical Chemistry
+COURSES_OFFERED: Chemistry for B.Sc (MPC) at UG level
+FACULTY:
+- Dr. B. Padma [also ICC Chairperson]
+- Ms. S. Shahjahan — Asst. Professor (C)
+RESEARCH: 3 papers published in peer-reviewed journals in 2023-24
+
+--- DEPARTMENT: PHYSICS ---
+COURSES_OFFERED: Physics for B.Sc (MPC) at UG level
+LABS: Well-equipped Physics labs
+FACULTY:
+- Dr. C. Srinivas Reddy — Asst. Professor (C)
+- Dr. Y. Mallaiah — Asst. Professor (C) [also NCC Officer]
+- Mrs. R.V. Neeraja — Asst. Professor (C)
+- Mrs. Ch. Radhika — Asst. Professor (C)
+
+--- DEPARTMENT: COMPUTER SCIENCE ---
+ESTABLISHED: 1998
+BCA_FOREIGN_STUDENTS: BCA offered for foreign students since 2010
+COURSES_OFFERED: B.Sc (MPCs), B.Com (Computers), B.Sc Honours, B.Sc Data Science, BCA at UG; MCA at PG
+HEAD: Mr. T. Venkatesham (I/c Head & Asst. Professor) [also Placement Officer]
+FACULTY:
+- Dr. B. Ranganatha Rao — Asst. Professor (C)
+- Mr. B. Narender — Asst. Professor (C)
+- Mrs. A. Sandhya — Asst. Professor (C) [also NSS Unit II Officer]
+- Mr. A. Vijay Kumar — Asst. Professor (C) [also Exam Branch Incharge]
+- Mr. B. Suresh — Asst. Professor (C)
+- Mr. P. Naveen — Asst. Professor (C)
+- Mrs. J. Kalyani — Asst. Professor (C) [also Girls Hostel Mess Warden]
+- Mr. K. Satyanna — Asst. Professor (C)
+- Mr. V. Chenna Goud — Asst. Professor (C)
+- Mr. G. Vamshi Krishna — Asst. Professor (C)
+- Nageshwar Rao — PTL
+- Y. Aruna — PTL
+- D. Raju — PTL
+PROGRAMMERS: Mr. N.R. Satish Kumar, Mr. V. Karunakar Reddy, Mr. B. Goutham, Mr. A. Thirupathi
+
+--- DEPARTMENT: SOCIAL WORK (MSW) ---
+COURSES_OFFERED: M.S.W (Master of Social Work) — PG only
+UNIQUE_FACT: Only Osmania University college offering MSW
+SPECIALISATIONS: Community Development, Psychiatric Social Work, Medical Social Work & Community Health, Human Resources Management
+WARDEN: Dr. Shankar Sampangi [also Boys Hostel General Warden]
+FIELD_WORK: Rural camp, concurrent field work, study tours, block placement
+PLACEMENTS: Students placed in PSUs and international/national NGOs
+
+--- DEPARTMENT: HINDI ---
+COURSES_OFFERED: MA Hindi (PG), Hindi as second language at UG
+HEAD: Dr. P. Sridevi (In-charge Head)
+FACULTY:
+- Dr. D. Prashanth Kumar
+- Dr. C. Sangeeta
+- Dr. Anand
+KEY_ACTIVITIES: 3-day national seminar with Koti Women's College; published articles in Hindi literature journals
+
+--- DEPARTMENT: PHYSICAL EDUCATION ---
+HEAD: Dr. G. Samuel Prabhu Kiran (Physical Director)
+OUTDOOR_GAMES: Volleyball, Basketball, Badminton, Tennicoit
+INDOOR_GAMES: Chess, Carrom
+ACHIEVEMENTS: Students represented State and Osmania University at National and Inter-University tournaments
+NON_TEACHING_STAFF: C. Anjaiah (Gang Man), G. Dhanaiah (Games Boy)
+
+--- DEPARTMENT: TELUGU ---
+COURSES_OFFERED: Telugu as second language at UG level
+FACULTY: Information not available on website
+LINK: https://www.upgcs.in/DEPARTMENTS/dept_of_telugu.html
+
+--- DEPARTMENT: SANSKRIT ---
+COURSES_OFFERED: Sanskrit as second language at UG level
+FACULTY: Information not available on website
+LINK: https://www.upgcs.in/DEPARTMENTS/dept_of_sanskrit.html
+
+--- DEPARTMENT: LIBRARY ---
+ESTABLISHED: Library block inaugurated 30 September 1992
+FOUNDATION_LAID: 3 May 1991 by Prof. Navaneeth Rao (then VC, OU)
+INAUGURATED_BY: Prof. M. Malla Reddy (VC, OU)
+COLLECTION: 79,000+ books
+SUBJECTS_COVERED: English, Economics, Public Administration, Political Science, History, Hindi, Commerce, Physics, Chemistry, Maths, Computer Science
+COMPETITIVE_EXAM_BOOKS: UGC NET, DSC, TET, General Studies, VRO, VRA, Groups, UPSC Mains, Indian Atlases
+REFERENCE_WORKS: Encyclopaedia Americana, Encyclopaedia Britannica, Encyclopaedia of Knowledge, Lexicon Universal Encyclopedia, Indian National Bibliography, British National Bibliography
+NEWSPAPERS: English, Telugu, Hindi (daily)
+TIMING: 10:30 AM to 4:30 PM (all working days); extended to 5:30 PM for competitive exam students
+CLOSED_ON: Sundays and public holidays
+SEATING_CAPACITY: 60+
+DAILY_FOOTFALL: ~200 students on average
+SOFTWARE: NewGenLib (Integrated Library Management System)
+FEATURES: Online Public Access Catalogue (OPAC), barcode technology, automated issue/return
+AUTOMATION_STARTED: Academic year 2011-12
+STAFF:
+- Dr. S. Sandhya Rani — Deputy Librarian
+- Dr. Mohammed Husamuddin — Library Assistant
+- Sri Achyuth Ballurkar — Typist
+- Smt. Shailaja — D.E.O
+- Sri A. Prabhakar — Book Keeper
+- Smt. E. Balarani — Book Keeper
+- Sri Arun Kumar — Junior Assistant
+- Smt. Fathima Begum — Kamatan
+- Sri Sayyad Pasha — Watchman
+
+
+================================================================================
+SECTION 7: FACILITIES AND CELLS
+================================================================================
+
+--- ICC (Internal Complaints Committee) ---
+FULL_NAME: Internal Complaints Committee
+PURPOSE: Handles complaints related to sexual harassment at the workplace
+GOVERNED_BY: UGC Regulations 2015 and the Prevention, Prohibition and Redressal of Sexual Harassment Act
+CHAIRPERSON: Dr. B. Padma, Department of Chemistry
+WHO_CAN_COMPLAIN: Any female employee, student, or staff member
+CONFIDENTIALITY: Yes — all cases handled with utmost sensitivity and confidentiality
+TIMELINE: Time-bound resolution as per Act
+NOTE: Malicious or baseless complaints may result in action against the complainant
+
+--- IQAC (Internal Quality Assurance Cell) ---
+FULL_NAME: Internal Quality Assurance Cell
+COORDINATOR: Dr. K. Ramesh Babu, Department of Mathematics
+CONSTITUTED: March 2005 (Osmania University level)
+PURPOSE: Plans, guides, and monitors Quality Assurance (QA) and Quality Enhancement (QE) activities
+GOALS:
+1. Develop quality systems for academic and administrative improvement
+2. Promote quality culture across all institutional stakeholders
+ACTIVITIES:
+- Seminars and workshops on quality themes
+- Student/parent feedback mechanism
+- Documentation of best practices
+- Annual Quality Assurance Report (AQAR) development
+- Bi-annual Quality Radars (QRs)
+- Institutional database through MIS
+
+--- WOMEN EMPOWERMENT CELL ---
+COORDINATOR: Dr. Anita Jyothi
+PURPOSE: Promotes welfare, safety, and empowerment of female students and staff
+ACTIVITIES: Gender sensitisation workshops, legal awareness programmes, Women's Day celebrations
+LINK: https://www.upgcs.in/FACILITIES/women_empowerment.html
+
+--- PLACEMENT CELL ---
+OFFICER: Mr. T. Venkatesham (Dept. of Computer Science)
+PURPOSE: Trains students for industry and facilitates campus placements
+PLACEMENT_SECTORS: Government (TSPSC, Police Recruitment Board, Gurukula Recruitment Board), Private companies and tax firms
+
+--- NCC (National Cadet Corps) ---
+FULL_NAME: National Cadet Corps
+ESTABLISHED_INDIA: 1948
+TYPE_AT_UPGCS: Air Wing
+NCC_OFFICER: Dr. Y. Mallaiah
+MOTTO: Unity and Discipline
+OPEN_TO: All students (voluntary basis)
+AIMS:
+- Develop character, comradeship, discipline, secular outlook, spirit of adventure
+- Create trained and motivated youth for leadership and national service
+- Motivate youth to pursue careers in Armed Forces
+BENEFITS: Micro Light Flying, Aeromodelling, Range Fire, Adventure Activities
+INCENTIVES:
+- Foreign Youth Exchange Programme visits
+- Republic Day parade at Rajpath, New Delhi
+- Eligibility for defence service
+- NCC quota scholarships
+
+--- NSS (National Service Scheme) ---
+FULL_NAME: National Service Scheme
+STARTED: 1958 (nationally, on Pandit Nehru's initiative)
+UNITS_AT_UPGCS: 2 units
+UNIT_1_BOYS_OFFICER: Dr. Rajender Kandukuri, Dept. of Commerce
+UNIT_2_GIRLS_OFFICER: Ms. A. Sandhya, Dept. of Computer Science
+PURPOSE: Involves student youth in social service and community activities
+
+--- HEALTH CENTRE ---
+LOCATION: On-campus
+PURPOSE: Primary health care for students and staff
+SERVICES: First aid, treatment for common colds, flu, fever, and allergies
+REFERRAL: Serious cases referred to Gandhi Hospital
+SPORTS_EVENTS: First aid available during all college sports events
+
+--- STUDENT CLUBS ---
+1. Science Club
+2. Innovation Club
+3. Environmental Club
+4. Wellness Club (Health and Wellness)
+5. Literary Club
+6. Cultural Club
+7. Indoor Games Club
+
+--- COLLEGE COMMITTEES ---
+1. Purchase Committee
+2. Advisory Committee
+3. Committee on UGC Affairs
+4. Infrastructure, College Development and Maintenance Committee
+5. Disciplinary Committee
+6. Women Empowerment Cell
+7. Workload & Time Table Committee
+8. Internal Complaints Committee (ICC)
+9. Hostel Committee
+10. College Space Upkeep Committee
+11. Anti-Ragging Committee
+12. Anti-Drug Committee
+13. Grievance Redressal Committee
+14. Continuous and Comprehensive Evaluation (CCE) Grievances Committee
+
+
+================================================================================
+SECTION 8: EXAMINATION BRANCH
+================================================================================
+
+PURPOSE: Conducts examinations for UG, PG, and Professional courses
+MONITORING: Entire exam process monitored for confidentiality and security under Principal and Vice-Principal
+CHIEF_SUPERINTENDENT: Prof. Ravi Kumar Jasti (Principal)
+ACADEMIC_COORDINATOR_1: Dr. B. Mallesham, Dept. of Maths
+ACADEMIC_COORDINATOR_2: Dr. V. Durga Prasad, Dept. of Commerce
+EXAM_INCHARGE_1: Dr. B. Saidulu, Dept. of History
+EXAM_INCHARGE_2: Mr. A. Vijay Kumar, Dept. of Computer Science
+
+ALMANAC_LINK: https://www.upgcs.in/Almanac.pdf
+EXAM_NOTIFICATIONS_LINK: http://ouexams.in/examnotifications
+RESULTS_LINK: https://www.osmania.ac.in/examination-results0.php
+
+
+================================================================================
+SECTION 9: HOSTELS
+================================================================================
+
+--- BOYS HOSTEL (Gnana Gangothri Hostel) ---
+NAME: Gnana Gangothri PG Boys Hostel
+FOR: Post-Graduate (PG) first and second year students
+ROOMS: 96
+GENERAL_WARDEN: Dr. Shankar Sampangi, Dept. of Social Work
+MESS_WARDEN: Dr. J. Nageshwar, Dept. of History
+PRIORITY: Students from rural and tribal areas
+ADMISSION_POLICY: Strictly subject to availability — no guaranteed accommodation
+NOTE: Self-Finance stream students may not receive accommodation
+RULES_REFERENCE: Osmania University Hostels & Messes Handbook
+LINK: https://www.upgcs.in/HOSTEL/gnana-gangotri-hostel.html
+
+--- GIRLS HOSTEL (PG Ladies Hostel) ---
+NAME: PG Ladies Hostel (New)
+FOR: Post-Graduate (PG) women students
+CAPACITY: 220 students
+INAUGURATION_DATE: 07/10/2023
+INAUGURATED_BY: Prof. Dandeboina Ravindar (Vice-Chancellor, OU)
+PRESENT_AT_INAUGURATION: Prof. Pappula Laxminarayan (Registrar OU), Prof. Bannoth Reddy Naik, Prof. Jasti Ravi Kumar (Principal), Dr. Mrudula Lakkaraju (Vice-Principal)
+GENERAL_WARDEN: Ms. S. Shahjahan, Dept. of Chemistry
+MESS_WARDEN: Ms. J. Kalyani, Dept. of Computer Science
+WORKERS: 23 workers maintaining the hostel
+LINK: https://www.upgcs.in/HOSTEL/CHW4(girls).html
+
+
+================================================================================
+SECTION 10: ADMIN OFFICE SECTIONS
+================================================================================
+
+ASSISTANT_REGISTRAR: Mr. D. Surya Naik
+LINK: https://www.upgcs.in/OFFICE/assistant_registrar.html
+
+OFFICE_SUPERINTENDENT:
+LINK: https://www.upgcs.in/OFFICE/office_superintendent.html
+
+ACADEMIC_SECTION:
+PURPOSE: Admissions, student records, exam registration, certificates, academic schedules
+LINK: https://www.upgcs.in/OFFICE/academic_section.html
+
+SCHOLARSHIP_SECTION:
+PURPOSE: Processes SC/ST/BC/EPP scholarship applications
+CONTACT_PERSON: Mr. Md. Merajuddin
+LINK: https://www.upgcs.in/OFFICE/scholarship_section.html
+
+ESTABLISHMENT_AND_PAYBILLS_SECTION:
+PURPOSE: Staff appointments, service records, pay processing, allowances
+LINK: https://www.upgcs.in/OFFICE/establishment_and_paybills_section.html
+
+ACCOUNTS_SECTION:
+PURPOSE: Financial records, fee collections, expenditure, budget management
+LINK: https://www.upgcs.in/OFFICE/accounts_section.html
+
+HOSTEL_SECTION:
+PURPOSE: Hostel admissions, room allotments, maintenance coordination
+LINK: https://www.upgcs.in/OFFICE/hostel_section.html
+
+HEALTH_CENTRE:
+PURPOSE: Primary healthcare, first aid, campus medical support
+LINK: https://www.upgcs.in/OFFICE/health_centre.html
+
+OFFICE_ATTENDERS:
+PURPOSE: General office support and document handling
+LINK: https://www.upgcs.in/OFFICE/office_attenders.html
+
+
+================================================================================
+SECTION 11: DISTINGUISHED ALUMNI
+================================================================================
+
+1. Captain Sreenivas Rao — Military
+2. Suresh Oberoi — Actor
+3. Late Srihari — Actor
+4. T. Amarnath Goud — Chief Justice of Tripura High Court
+5. Noshir S. Mehta (SBH) — Played cricket for 50 glorious years
+6. H.E. Nawab Mir Nasir Ali Khan — Consulate of the Republic of Kazakhstan in Hyderabad
+7. Simon Vijay Raj — Deputy Inspector General, BSF
+8. Commander Malcolm Wolf — Military
+9. S. Ravindar Nath — Deputy Inspector General, BSF
+10. B. Venu Gopal — Football Coach
+11. Aroop Das IRS (Rtd.) — IRS Officer, 1974 Batch
+12. Srihari Rtd. ACP — Police
+13. Vasusena GP — Deputy Inspector General, BSF
+14. G.P. Vinod Kumar — ACP
+15. B.D. Manmohan Rtd. — Superintendent of Police, All India Gold Medalist (Boxing)
+16. Narra Ravi Kumar — Padma Shri Awardee
+17. Samala Venu — Magician and Illusionist
+18. Atluri Rama Krishna — Member, Regional Film Censor Board, Govt of India
+19. CH Venu Gopal — Vice President Students Union, Chairman Saptagiri Hotels
+20. B. Mohan (SBH) — Cricket Commentator and Ranji Cricketer
+21. Alladi Ravi Kumar — President, Students Union (1980-81)
+22. Ali Khan — President, Students Union (1978-79)
+23. M. Amarnath Vice — President Students Union
+24. Bandi Ashok Reddy — Advocate Vice President, Students Union
+25. Indravardhan — General Secretary, Students Union
+26. M.R. Giridhar — Cultural Secretary, Students Union 1981
+27. Anthony J — General Secretary, Students Union 1984-85
+28. R. Narender — General Secretary / Vice President, Students Union
+29. G. Nathaniel — Principal, St. George's Boys Jr School
+
+
+================================================================================
+SECTION 12: CONTACT INFORMATION
+================================================================================
+
+COLLEGE_NAME: University Post Graduate College
+ADDRESS_LINE1: Sardar Patel Road
+ADDRESS_LINE2: Beside Paradise Metro Station
+CITY: Secunderabad
+PINCODE: 500003
+STATE: Telangana
+COUNTRY: India
+EMAIL_PRIMARY: oupgcs@gmail.com
+EMAIL_HELPDESK: helpdeskupgcs@gmail.com
+PHONE_1: +91 040 27902169
+PHONE_2: +91 8331997330
+PHONE_3: +91 8331997329
+PHONE_4: +91 8331997328
+WEBSITE: https://www.upgcs.in
+GOOGLE_MAPS: https://goo.gl/maps/ZMVppAURsDqnNTui6
+
+IMPORTANT_LINKS:
+- Fee Payment: https://osmaniaerp.com/Program.html
+- UG Admissions (DOST): https://dost.cgg.gov.in/
+- PG Admissions (CPGET): https://cpget.tsche.ac.in/
+- MCA Admissions (ICET): https://icet.tsche.ac.in/
+- Exam Notifications: http://ouexams.in/examnotifications
+- Exam Results: https://www.osmania.ac.in/examination-results0.php
+- Osmania University: https://www.osmania.ac.in/
+- UGC: https://www.ugc.gov.in/
+- ICSSR-SRC: https://www.srcicssr.org/
+- DOST: https://dost.cgg.gov.in/
+- Almanac PDF: https://www.upgcs.in/Almanac.pdf
+- Brochure PDF: https://www.upgcs.in/Brochure.cdr.pdf
+
+
+================================================================================
+SECTION 13: FREQUENTLY ASKED QUESTIONS (FAQ)
+================================================================================
+
+Q: What is the full name of UPGCS?
+A: University Post Graduate College, Secunderabad (also called University PG College, OU Secunderabad).
+
+Q: When was UPGCS established?
+A: In 1947, the same year India gained independence.
+
+Q: Is UPGCS a government college?
+A: Yes. It is a constituent college of Osmania University, a government university in Hyderabad, Telangana.
+
+Q: Is UPGCS co-educational?
+A: Yes. UPGCS is a co-educational institution open to both boys and girls.
+
+Q: What UG courses are offered?
+A: BBA, B.Com (Regular), B.Com (Computers), B.Sc (MPC), B.Sc (MPCs), BCA, B.A (HPP), B.A (EPP), B.Sc (Data Science), and B.Sc Honours (Computer Science).
+
+Q: What PG courses are offered?
+A: MA English, MA Hindi, MA Economics, MA Public Administration, MA History, MA Political Science, M.Com, MSW, MCA, and M.Sc Data Science.
+
+Q: How do I apply for UG admission?
+A: Through DOST — Degree Online Services, Telangana at https://dost.cgg.gov.in/
+
+Q: How do I apply for PG admission?
+A: Through CPGET (Common Post-Graduate Entrance Test) at https://cpget.tsche.ac.in/
+
+Q: How do I apply for MCA?
+A: Through ICET at https://icet.tsche.ac.in/
+
+Q: What is the eligibility for B.Sc (MPC)?
+A: Must have passed Intermediate (TS Board or equivalent) with at least 40% in optional subjects. SC/ST need only pass marks.
+
+Q: Who is the Principal of UPGCS?
+A: Prof. S Kavitha Devi (current Principal).
+
+Q: Who is the Vice-Principal?
+A: Dr. Mrudula Lakkaraju.
+
+Q: What is the address of UPGCS?
+A: Sardar Patel Road, Beside Paradise Metro Station, Secunderabad – 500003, Telangana, India.
+
+Q: What is the phone number of UPGCS?
+A: +91 040 27902169, +91 8331997330, +91 8331997329, +91 8331997328.
+
+Q: What is the email of UPGCS?
+A: oupgcs@gmail.com and helpdeskupgcs@gmail.com.
+
+Q: Does the college have a hostel?
+A: Yes. Gnana Gangothri Boys Hostel (96 rooms for PG boys) and PG Ladies Hostel (220 seats for PG girls).
+
+Q: When was the Ladies Hostel inaugurated?
+A: 07/10/2023, by Prof. Dandeboina Ravindar (Vice-Chancellor, OU).
+
+Q: What is the library timing?
+A: 10:30 AM to 4:30 PM on working days. Extended to 5:30 PM for competitive exam aspirants. Closed on Sundays and public holidays.
+
+Q: How many books are in the library?
+A: Over 79,000 books covering all major subjects.
+
+Q: What is IQAC?
+A: Internal Quality Assurance Cell — it plans, guides, and monitors quality assurance and quality enhancement activities of the college. Coordinator: Dr. K. Ramesh Babu.
+
+Q: What is ICC?
+A: Internal Complaints Committee — it handles complaints related to sexual harassment at the workplace. Chairperson: Dr. B. Padma.
+
+Q: Does UPGCS have NCC?
+A: Yes. UPGCS offers NCC Air Wing. NCC Officer is Dr. Y. Mallaiah.
+
+Q: Does UPGCS have NSS?
+A: Yes. UPGCS has 2 NSS units. Unit 1 (Boys): Dr. Rajender Kandukuri; Unit 2 (Girls): Ms. A. Sandhya.
+
+Q: What sports facilities are available?
+A: Outdoor: Volleyball, Basketball, Badminton, Tennicoit. Indoor: Chess, Carrom. Sprawling grounds with floodlights and a large sports complex.
+
+Q: Is there a placement cell?
+A: Yes. Placement Officer is Mr. T. Venkatesham. Students are placed in companies, tax firms, and government services (TSPSC, Police Board, Gurukula Board).
+
+Q: What scholarships are available?
+A: Government scholarships for SC, ST, BC/EBC, and EPP students based on caste and income criteria. Contact: Mr. Md. Merajuddin, Scholarship Section.
+
+Q: What is the fee payment portal?
+A: https://osmaniaerp.com/Program.html
+
+Q: Where can I check exam results?
+A: https://www.osmania.ac.in/examination-results0.php
+
+Q: Where can I check exam notifications?
+A: http://ouexams.in/examnotifications
+
+Q: What is the reservation for SC students?
+A: 15% of total seats.
+
+Q: What is the reservation for ST students?
+A: 6% of total seats.
+
+Q: What is the reservation for Backward Classes (BC)?
+A: 25% in total (BC-A: 7%, BC-B: 10%, BC-C: 1%, BC-D: 7%).
+
+Q: What second languages are available for UG students?
+A: Telugu, Hindi, and Sanskrit.
+
+Q: Does UPGCS accept international students?
+A: Yes. The college is a preferred destination for students from Sudan, Yemen, Tanzania, Nigeria, Djibouti, Ethiopia and other African countries.
+
+Q: What is the vision of UPGCS?
+A: To strive and uphold the values of humanity, nurturing through education the next generation of nation builders.
+
+Q: What is the MSW programme?
+A: Master of Social Work — a 2-year PG programme. UPGCS is the only OU college offering MSW. Seats: 60.
+
+Q: Where is the Almanac?
+A: https://www.upgcs.in/Almanac.pdf
+
+Q: How many seats are available for M.Com?
+A: 40 seats.
+
+Q: How many seats for MCA?
+A: 60 seats.
+
+Q: What is CBCS?
+A: Choice Based Credit System — introduced by Osmania University from 2016-17 for all UG courses.
+
+================================================================================
+END OF UPGCS CHATBOT KNOWLEDGE BASE
+Source: www.upgcs.in | Brochure PDF 2024 | Last Updated: 2024
+================================================================================

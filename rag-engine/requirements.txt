@@ -1,0 +1,12 @@
+# RAG Engine Dependencies
+# Optimized for low-end hardware (i3 + 8GB RAM)
+
+flask==3.0.0           # Lightweight Python web server
+flask-cors==4.0.0      # Allow Node.js to call Python server
+
+sentence-transformers==2.7.0  # For text embeddings
+faiss-cpu==1.13.2              # Vector search (CPU version - no GPU needed)
+
+requests==2.31.0       # HTTP calls to LLM API
+python-dotenv==1.0.0   # Load .env secrets
+numpy==2.1.0          # Array operations (required by FAISS)
