@@ -7,7 +7,7 @@
 // When deploying to Vercel, change this to your Render Node.js URL!
 // Example: const BACKEND_URL = 'https://upgcs-node-backend.onrender.com';
 
-const BACKEND_URL = 'http://localhost:3000'; 
+const BACKEND_URL = 'https://college-ai-assistant-1-edhp.onrender.com'; 
 
 // ==========================================
 // 🎨 UI ELEMENTS & LOGIC
