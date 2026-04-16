@@ -130,7 +130,11 @@ def health_check():
     return jsonify({"status": "running", "database": "loaded"})
 
 if __name__ == '__main__':
-    print(f"🚀 Elite Dual-Engine RAG is LIVE on port {PORT}")
-    # RENDER CRITICAL: host='0.0.0.0' is required for cloud deployment
-    app.run(host='0.0.0.0', port=PORT, debug=False)
-
+    # Render provides the port in an environment variable named 'PORT'
+    # We fall back to 5001 only for local testing
+    port = int(os.getenv('PORT', 5001))
+    
+    print(f"🚀 Elite Dual-Engine RAG is LIVE on port {port}")
+    
+    # RENDER CRITICAL: host='0.0.0.0' and the dynamic port are required
+    app.run(host='0.0.0.0', port=port, debug=False)
