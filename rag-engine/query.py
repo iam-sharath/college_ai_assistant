@@ -1,14 +1,10 @@
-
 # rag-engine/query.py
 import os
 import json
-import faiss
-import torch
-import numpy as np
 import requests
+import numpy as np
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -16,35 +12,43 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app)
 
-# ==========================================
-# 🔑 API KEYS 
-# ==========================================
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 
-# RENDER CRITICAL: Use 'PORT' instead of 'FLASK_PORT'
 PORT = int(os.getenv('PORT', 5001))
 MODEL_NAME = os.getenv('EMBEDDING_MODEL', 'all-MiniLM-L6-v2')
 INDEX_DIR = "faiss_index"
 INDEX_FILE = os.path.join(INDEX_DIR, "index.faiss")
 CHUNKS_FILE = os.path.join(INDEX_DIR, "chunks.json")
 
-print("⏳ Loading AI Models and Database...")
+# ==========================================
+# 🧠 LAZY LOADING VARIABLES
+# ==========================================
+embedder = None
+index = None
+chunks = None
 
-try:
-    if not os.path.exists(INDEX_FILE):
-        raise FileNotFoundError(f"Missing {INDEX_FILE}. Run ingest.py first!")
-    index = faiss.read_index(INDEX_FILE)
-    with open(CHUNKS_FILE, "r", encoding="utf-8") as f:
-        chunks = json.load(f)
-    print("✅ FAISS Database loaded successfully.")
-except Exception as e:
-    print(f"❌ Error loading FAISS: {e}")
-    exit(1)
+def initialize_ai():
+    """Loads the heavy AI models ONLY when the first question is asked."""
+    global embedder, index, chunks
+    if embedder is None:
+        print("⏳ First question received! Waking up AI Models...")
+        import faiss
+        import torch
+        from sentence_transformers import SentenceTransformer
 
-# Forces the AI model to stay lightweight and use only CPU RAM
-embedder = SentenceTransformer(MODEL_NAME, device='cpu')
-print("✅ AI Embedding Model loaded on CPU.")
+        torch.set_grad_enabled(False)
+        
+        if os.path.exists(INDEX_FILE):
+            index = faiss.read_index(INDEX_FILE)
+            with open(CHUNKS_FILE, "r", encoding="utf-8") as f:
+                chunks = json.load(f)
+            print("✅ FAISS Database loaded.")
+        else:
+            print(f"❌ Error: Missing {INDEX_FILE}")
+
+        embedder = SentenceTransformer(MODEL_NAME, device='cpu')
+        print("✅ AI Embedding Model loaded on CPU.")
 
 SYSTEM_PROMPT = (
     "You are an elite, highly accurate AI Assistant for University PG College Secunderabad (UPGCS). "
@@ -72,11 +76,10 @@ def generate_groq_response(question, context):
     }
     try:
         response = requests.post(url, headers=headers, json=payload)
-        if response.status_code == 429: return False, None
-        elif response.status_code != 200: return False, None
-        data = response.json()
-        return True, data['choices'][0]['message']['content']
-    except Exception as e:
+        if response.status_code == 200:
+            return True, response.json()['choices'][0]['message']['content']
+        return False, None
+    except Exception:
         return False, None
 
 def generate_gemini_response(question, context):
@@ -90,15 +93,16 @@ def generate_gemini_response(question, context):
     try:
         response = requests.post(url, headers=headers, json=payload)
         if response.status_code == 200:
-            data = response.json()
-            return True, data['candidates'][0]['content']['parts'][0]['text']
-        else:
-            return False, "The UPGCS Assistant is experiencing high student traffic right now. Please try again. 🎓"
-    except Exception as e:
-        return False, "The UPGCS Assistant is experiencing high student traffic right now. Please try again. 🎓"
+            return True, response.json()['candidates'][0]['content']['parts'][0]['text']
+        return False, "The UPGCS Assistant is experiencing high traffic. Please try again. 🎓"
+    except Exception:
+        return False, "The UPGCS Assistant is experiencing high traffic. Please try again. 🎓"
 
 @app.route('/query', methods=['POST'])
 def query_rag():
+    # THE MAGIC TRICK: Load AI only when a student actually asks a question!
+    initialize_ai()
+    
     data = request.json
     question = data.get('question')
 
@@ -113,11 +117,10 @@ def query_rag():
     
     success, answer = generate_groq_response(question, context)
     if success:
-        print("⚡ Success! Answered using GROQ API.")
+        print("⚡ Answered using GROQ API.")
     else:
-        print("🔄 Groq failed/busy. Routing to Engine 2 (Gemini)...")
+        print("🔄 Routing to Engine 2 (Gemini)...")
         success, answer = generate_gemini_response(question, context)
-        if success: print("🌟 Success! Answered using GEMINI API.")
 
     return jsonify({
         "answer": answer,
@@ -127,14 +130,8 @@ def query_rag():
 
 @app.route('/health', methods=['GET'])
 def health_check():
-    return jsonify({"status": "running", "database": "loaded"})
+    return jsonify({"status": "running", "database": "waiting for first query"})
 
 if __name__ == '__main__':
-    # Render provides the port in an environment variable named 'PORT'
-    # We fall back to 5001 only for local testing
-    port = int(os.getenv('PORT', 5001))
-    
-    print(f"🚀 Elite Dual-Engine RAG is LIVE on port {port}")
-    
-    # RENDER CRITICAL: host='0.0.0.0' and the dynamic port are required
-    app.run(host='0.0.0.0', port=port, debug=False)
+    print(f"🚀 Starting fast on port {PORT}. AI is sleeping until needed.")
+    app.run(host='0.0.0.0', port=PORT, debug=False)
