@@ -37,7 +37,7 @@ router.post('/', async (req, res) => {
     const ragResponse = await axios.post(
       `${RAG_URL}/query`,
       { question: cleanMessage },
-      { timeout: 30000 }
+      { timeout: 90000 }
     );
 
     const { answer, sources, confidence } = ragResponse.data;
